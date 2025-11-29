@@ -1,3 +1,5 @@
-from US_visa.logger import logging
+from us_visa.pipline.training_pipeline import TrainingPipeline
 
-logging.info("Loging stupped successfully.")
+
+pipeline = TrainingPipeline()
+pipeline.run_pipeline()
