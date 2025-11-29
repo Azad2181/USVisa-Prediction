@@ -136,3 +136,7 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
    - AWS_DEFAULT_REGION
    - ECR_REPO
    - MONGODB_URL
+
+# 8. Project view:-
+
+<img width="678" height="677" alt="Image" src="https://github.com/user-attachments/assets/aeec8b8b-394c-4a62-a371-1bb55e5f309e" />
