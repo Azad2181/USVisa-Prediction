@@ -73,14 +73,15 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 ## 2. Create IAM user for deployment
 
-	#with specific access
+	
+	@with specific access
 
 	1. EC2 access : It is virtual machine
 
 	2. ECR: Elastic Container registry to save your docker image in aws
 
 
-	#Description: About the deployment
+	@Description: About the deployment
 
 	1. Build docker image of the source code
 
@@ -92,7 +93,7 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 	5. Lauch your docker image in EC2
 
-	#Policy:
+	@Policy:
 
 	1. AmazonEC2ContainerRegistryFullAccess
 
